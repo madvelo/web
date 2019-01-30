@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+
+<channel>
+<title>www.musicaaldia.com</title> 
+<atom:link href="https://davidvelo.neocities.org/rss.xml" rel="self" 
+type="application/rss+xml"/>
+<link>https://davidvelo.neocities.org/</link> 
+<description>Esta es mi pagina principal donde se suben las noticias mas interesantes sobre musica.</description> 
+<language>es-ES</language>
+<managingEditor>djvasir@gmail.com</managingEditor>
+<ttl>30</ttl>
+
+
+<item>
+<title>Estilos musicales</title>
+<link>https://davidvelo.neocities.org/html/estilos_musicales.html</link>
+<description>Aqui te saldran todos los estilos musicales.</description>
+<guid>https://davidvelo.neocities.org/html/estilos_musicales.html</guid>
+</item>
+
+<item>
+<title>Seleccion musical</title>
+<link>https://davidvelo.neocities.org/html/seleccion_musical.html</link>
+<description>Aqui te saldra toda la seleccion de musica que mas te interesa con resumenes y todo.</description>
+<guid>https://davidvelo.neocities.org/html/seleccion_musical.html</guid>
+</item>
+
+<item>
+<title>Subscribete!</title>
+<link>https://davidvelo.neocities.org/html/contacto.html</link>
+<description>Ponte en contacto con nosotros</description>
+<guid>https://davidvelo.neocities.org/html/contacto.html</guid>
+</item>
+
+
+
+
+
+</channel>
+</rss>
