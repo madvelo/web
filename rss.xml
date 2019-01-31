@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss  version="2.0">
 
 <channel>
 <title>www.musicaaldia.com</title> 
@@ -11,6 +11,12 @@ type="application/rss+xml"/>
 <managingEditor>djvasir@gmail.com</managingEditor>
 <ttl>30</ttl>
 
+<item>
+<title>Noticias</title>
+<link>https://davidvelo.neocities.org/index.html</link>
+<description>Aqui te saldran todas las noticias.</description>
+<guid>https://davidvelo.neocities.org/index.html</guid>
+</item>
 
 <item>
 <title>Estilos musicales</title>
