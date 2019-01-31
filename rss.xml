@@ -11,12 +11,6 @@ type="application/rss+xml"/>
 <managingEditor>djvasir@gmail.com</managingEditor>
 <ttl>30</ttl>
 
-<item>
-<title>Noticias</title>
-<link>https://davidvelo.neocities.org/index.html</link>
-<description>Aqui te saldran todas las noticias.</description>
-<guid>https://davidvelo.neocities.org/index.html</guid>
-</item>
 
 <item>
 <title>Estilos musicales</title>
